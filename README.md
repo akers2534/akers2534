@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **I’m looking to collaborate on any web/app development or security project.**
 
-- 💬 Ask me about **Ask me about Python, Api's, SQL**
+- 💬 Ask me about Python, Api's, SQL**
 
 - 📫 How to reach me **akers2534@gmail.com**
 
